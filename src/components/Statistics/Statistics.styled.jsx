@@ -1,10 +1,9 @@
 import styled from '@emotion/styled';
 
 export const StatisticsSection = styled.section`
-margin-left: 22px;
- `;
-
+  margin-left: 20px;
+`;
 
 export const StatItem = styled.p`
-margin-top: 10px;
- `;
+  margin-top: 10px;
+`;

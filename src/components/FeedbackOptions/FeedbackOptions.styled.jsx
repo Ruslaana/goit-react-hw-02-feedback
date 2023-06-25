@@ -10,11 +10,7 @@ export const OptionsLi = styled.li`
   margin-right: 10px;
 
   & button:hover {
-    background-color: green;
-  }
-
-  & button::first-letter {
-    text-transform: uppercase;
+    background-color: #7fffd4;
   }
 `;
 
@@ -22,5 +18,5 @@ export const Button = styled.button`
   cursor: pointer;
   background-color: white;
   border: 1px solid lightgray;
-  padding: 8px;
+  padding: 10px;
 `;
