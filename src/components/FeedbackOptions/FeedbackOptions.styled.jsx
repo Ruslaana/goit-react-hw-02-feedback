@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const OptionsUl = styled.ul`
   margin-top: 10px;
-  text-align: center;
+  padding: 0;
 `;
 
 export const OptionsLi = styled.li`
