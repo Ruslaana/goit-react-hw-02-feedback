@@ -10,7 +10,7 @@ export const OptionsLi = styled.li`
   margin-right: 10px;
 
   & button:hover {
-    background-color: #7fffd4;
+    background-color: green;
   }
 `;
 
